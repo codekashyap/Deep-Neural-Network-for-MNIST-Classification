@@ -9,6 +9,7 @@
 4. Make the model learn.
 5. Test the accuracy of the model.
 
+## 
 - Convert each image in a vector of length (784*1), with input values of range 0 to 255. (0 for purely black and 255 for purely white)
 - We built a neural network with 2 hidden layers.
 - We built the model using "ADAM" optimeizer and "Softmax" as output activation function.
