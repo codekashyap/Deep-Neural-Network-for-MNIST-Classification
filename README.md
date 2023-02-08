@@ -3,7 +3,7 @@
 - TensorFLow includes a data provider for MNIST that we used.
 
 ## Action Plan :
-1. Prepare our data and process it. Create training, validation and testing dataset.
+1. Prepare our data and preprocess it. Create training, validation and testing dataset.
 2. Outline the model and choose the activation function.
 3. Set the appropiate optimizer and loss function.
 4. Make the model learn.
